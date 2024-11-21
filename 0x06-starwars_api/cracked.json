@@ -1,0 +1,42 @@
+[
+  {
+    "type": "WPS",
+    "date": 1731966723,
+    "essid": "Orange-1CEE",
+    "bssid": "10:3C:59:76:1C:EE",
+    "channel": "11",
+    "pin": "77406545",
+    "psk": "6B47566Y6P",
+    "loc": "ND"
+  },
+  {
+    "type": "WPS",
+    "date": 1731966892,
+    "essid": "TP-LINK_2D4181",
+    "bssid": "34:E8:94:2D:41:81",
+    "channel": "9",
+    "pin": "24478304",
+    "psk": "Mery5991",
+    "loc": "ND"
+  },
+  {
+    "type": "WPS",
+    "date": 1731968443,
+    "essid": "ADSL_inwi_2.4G_F6CF",
+    "bssid": "3C:33:32:EF:F6:CF",
+    "channel": "11",
+    "pin": "57262871",
+    "psk": null,
+    "loc": "ND"
+  },
+  {
+    "type": "WPS",
+    "date": 1732053671,
+    "essid": "ADSL_inwi_2.4G_F6CF",
+    "bssid": "3C:33:32:EF:F6:CF",
+    "channel": "1",
+    "pin": "57262871",
+    "psk": "3C3332EFF6CF",
+    "loc": "ND"
+  }
+]
